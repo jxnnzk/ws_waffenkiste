@@ -4,7 +4,7 @@ WS.EsxExport = true
 
 WS.WeaponChests = {
     {
-        item = "weapon_chest_pistol", -- Item was verwendet wird
+        item = "weapon_chest_pistol",
         weapon = "weapon_pistol" -- Waffe die man bekommt
     },
     {
